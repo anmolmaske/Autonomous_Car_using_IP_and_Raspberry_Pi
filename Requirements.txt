@@ -1,0 +1,6 @@
+numpy
+matplotlib
+cv2
+time
+Rpi.GPIO
+math
