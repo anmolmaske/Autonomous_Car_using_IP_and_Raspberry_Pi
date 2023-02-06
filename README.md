@@ -1,4 +1,4 @@
-# Autonomous_Car_using_Image_Processing_and_ML
+# Autonomous_Car_using_Image_Processing_and_Raspberry Pi
 
 The code helps the Car to Drive, Avoid Obsticals, Detect Traffic signs and Park in its desired path
 
